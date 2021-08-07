@@ -65,6 +65,12 @@ Apollo 1.9.0
 * [fix size of create project button](https://github.com/ctripcorp/apollo/pull/3849)
 * [translation of "portal-how-to-enable-webhook-notification.md"](https://github.com/ctripcorp/apollo/pull/3847)
 * [feature: add history detail for not key-value type of namespace](https://github.com/ctripcorp/apollo/pull/3856)
+* [fix show-text-modal number display](https://github.com/ctripcorp/apollo/pull/3851)
+* [Lazy load ConfigUtil](https://github.com/ctripcorp/apollo/pull/3864)
+* [make jdbc session enable default](https://github.com/ctripcorp/apollo/pull/3869)
+* [support json/yaml/xml format for public namespace](https://github.com/ctripcorp/apollo/pull/3836)
+* [Translate application into 应用 not 项目](https://github.com/ctripcorp/apollo/pull/3877)
+
 ------------------
 All issues and pull requests are [here](https://github.com/ctripcorp/apollo/milestone/6?closed=1)
 
